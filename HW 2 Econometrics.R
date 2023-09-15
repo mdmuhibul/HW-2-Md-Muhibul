@@ -2,7 +2,7 @@
 #Homework 2
 #Statistics and Introduction to Econometrics
 #ECO B2000
-#Group member: Luis Melo
+
 
 #Question 1: Md Muhibul Islam; Luis melo
 
